@@ -5,7 +5,9 @@
 <td valign="top">
 
 ### 👋 About Me
-I'm Luke Cabatingan, a Fullstack Developer with a passion for Cybersecurity and IT Support. I enjoy building robust applications, securing digital environments, and solving complex technical challenges. Welcome to my GitHub!
+- 🚀 **Fullstack Developer** crafting robust and user-friendly applications.
+- 🛡️ **Cybersecurity & IT Support Enthusiast** with a passion for securing digital environments.
+- 🧩 **Complex Problem-Solver** dedicated to overcoming difficult technical challenges.
 
 </td>
 <td width="40%" align="center">
