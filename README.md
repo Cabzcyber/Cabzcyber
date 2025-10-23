@@ -1,7 +1,20 @@
 ![Header](./CabzBanner.png)
 
+<table>
+<tr>
+<td valign="top">
+
 ### 👋 About Me
 I'm Luke Cabatingan, a Fullstack Developer with a passion for Cybersecurity and IT Support. I enjoy building robust applications, securing digital environments, and solving complex technical challenges. Welcome to my GitHub!
+
+</td>
+<td width="40%" align="center">
+
+![Programmer GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/Programmer.gif)
+
+</td>
+</tr>
+</table>
 
 ### 📊 My GitHub Stats
 <p align="center">
