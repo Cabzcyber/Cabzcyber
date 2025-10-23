@@ -1,5 +1,8 @@
 ![Header](./CabzBanner.png)
 
+
+
+
 <Div> 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=092DF7&width=435&lines=Connect+With+Me" alt="Typing SVG" />
  </a>
@@ -18,3 +21,4 @@
 </p>
 </Div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Cabzcyber&style=flat-square&color=blue)
