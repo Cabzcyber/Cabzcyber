@@ -4,12 +4,6 @@
 <tr>
 <td valign="top">
 
-![Header](./CabzBanner.png)
-
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="top">
-
 ### 👋 About Me
 - 🎓 **3rd Year BSIT Student** & **Top Performing Student** at USTP.
 - 👨‍💻 Currently building the **Pickarry Delivery Mobile System**.
