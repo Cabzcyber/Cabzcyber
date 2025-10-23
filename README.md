@@ -1,6 +1,8 @@
 ![Header](./CabzBanner.png)
 
-
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td valign="top">
 
 ### 👋 About Me
 - 🎓 **3rd Year BSIT Student** & **Top Performing Student** at USTP.
@@ -9,12 +11,8 @@
 - 앰배서더 **IT Ambassador** for Google Developer Groups (GDG) USTP.
 - 📫 **Let's connect:** cabatinganlukezichri@gmail.com
 
-<Div align="center">
-![Molecules Dance GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58)
-</Div>
 </td>
-</tr>
-</table>
+<td width="40%" align="center">
 
 ### 📊 My GitHub Stats
 <p align="center">
