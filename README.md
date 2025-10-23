@@ -1,6 +1,6 @@
 ![Header](./CabzBanner.png)
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table style="border: none; border-collapse: collapse;">
 <tr>
 <td valign="top">
 
@@ -8,7 +8,7 @@
 - 🎓 **3rd Year BSIT Student** & **Top Performing Student** at USTP.
 - 👨‍💻 Currently building the **Pickarry Delivery Mobile System**.
 - 🛡️ Passionate **IT Support & Cybersecurity Enthusiast**.
-- **IT Ambassador** for Google Developer Groups (GDG) USTP.
+- 앰배서더 **IT Ambassador** for Google Developer Groups (GDG) USTP.
 - 📫 **Let's connect:** cabatinganlukezichri@gmail.com
 
 </td>
