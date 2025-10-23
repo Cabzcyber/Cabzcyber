@@ -1,6 +1,6 @@
 ![Header](./CabzBanner.png)
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="top">
 
@@ -10,7 +10,7 @@ I'm Luke Cabatingan, a Fullstack Developer with a passion for Cybersecurity and 
 </td>
 <td width="40%" align="center">
 
-![Programmer GIF](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/Programmer.gif)
+![Molecules Dance GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58)
 
 </td>
 </tr>
