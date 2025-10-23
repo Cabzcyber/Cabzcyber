@@ -14,6 +14,12 @@
 </td>
 <td width="40%" align="center">
 
+![Molecules Dance GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58)
+
+</td>
+</tr>
+</table>
+
 ### 📊 My GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -46,5 +52,5 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,react,java,kotlin,nodejs,figma,arduino,discord,gmail,linux,npm,notion,vscode,linkedin,laravel,php,pycharm,py,vite,supabase,mysql,firebase,aws&theme=light&perline=12" />
   </a>
-</td>
-<td width="40%" align="center">
+</p>
+</Div>
