@@ -8,7 +8,7 @@
 - 🎓 **3rd Year BSIT Student** & **Top Performing Student** at USTP.
 - 👨‍💻 Currently building the **Pickarry Delivery Mobile System**.
 - 🛡️ Passionate **IT Support & Cybersecurity Enthusiast**.
-- 앰배서더 **IT Ambassador** for Google Developer Groups (GDG) USTP.
+- **IT Ambassador** for Google Developer Groups (GDG) USTP.
 - 📫 **Let's connect:** cabatinganlukezichri@gmail.com
 
 </td>
